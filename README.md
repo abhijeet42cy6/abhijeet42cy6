@@ -1,10 +1,6 @@
-- 👋 Hi, I’m ABHIJEET
-- 👀 I’m interested in KNOWLEDGE
-- 🌱 I’m currently learning WEB DEV with python and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 
-- ⚡ Fun fact: ...
+👋 Hi, I’m ABHIJEET
+  
+⚡ Fun fact: WE ARE BUILDING KHETAI AND CARBON6
 
 <!---
 abhijeet42cy6/abhijeet42cy6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
